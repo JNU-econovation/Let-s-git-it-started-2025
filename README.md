@@ -14,13 +14,13 @@ Let’s git it started 행사는 개발 프로젝트를 진행할 때 자주 사
 
 ### 깃행사 사전과제💘
 
-- [깃행사 사전과제](https://econovation.notion.site/1d530b4e356c813db79ac76a4e549342?pvs=4) 참고 부탁드립니다.
+- [깃행사 사전과제](https://econovation.notion.site/1ec30b4e356c81e3842bd9a67f416fa3?source=copy_link) 참고 부탁드립니다.
 
 <br> </br>
 
 > **안내** 원활한 행사 진행을 위해 별도의 행사 가이드를 제공해드립니다.💁‍♂️
 
-- [Let's Git it 예습 자료](https://econovation.notion.site/Let-s-Git-It-Started-1d530b4e356c81fd8feed17e9481991e?pvs=4)
+- [Let's Git it 예습 자료](https://econovation.notion.site/Let-s-Git-It-Started-1ec30b4e356c81c6bdaafb57a3b2e5d9?source=copy_link)
   <br> </br>
 
 ## ❗️Code of conduct
